@@ -1,0 +1,72 @@
+C:\Users\igoro\source\repos\smarthouse\smarthouse\bin\Debug\smarthouse.exe.config
+C:\Users\igoro\source\repos\smarthouse\smarthouse\bin\Debug\smarthouse.exe
+C:\Users\igoro\source\repos\smarthouse\smarthouse\bin\Debug\smarthouse.pdb
+C:\Users\igoro\source\repos\smarthouse\smarthouse\bin\Debug\Microsoft.Speech.dll
+C:\Users\igoro\source\repos\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.AssemblyReference.cache
+C:\Users\igoro\source\repos\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\igoro\source\repos\smarthouse\smarthouse\obj\Debug\smarthouse.Form1.resources
+C:\Users\igoro\source\repos\smarthouse\smarthouse\obj\Debug\smarthouse.Properties.Resources.resources
+C:\Users\igoro\source\repos\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.GenerateResource.cache
+C:\Users\igoro\source\repos\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.CoreCompileInputs.cache
+C:\Users\igoro\source\repos\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.CopyComplete
+C:\Users\igoro\source\repos\smarthouse\smarthouse\obj\Debug\smarthouse.exe
+C:\Users\igoro\source\repos\smarthouse\smarthouse\obj\Debug\smarthouse.pdb
+C:\Users\igoro\source\repos\smarthouse\smarthouse\obj\Debug\smarthouse.Form2.resources
+C:\Users\igoro\source\repos\smarthouse\smarthouse\bin\Debug\MaterialSkin.dll
+C:\Users\igoro\source\repos\smarthouse\smarthouse\bin\Debug\AForge.dll
+C:\Users\igoro\source\repos\smarthouse\smarthouse\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\igoro\source\repos\smarthouse\smarthouse\bin\Debug\AForge.Video.dll
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\bin\Debug\smarthouse.exe.config
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\bin\Debug\smarthouse.exe
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\bin\Debug\smarthouse.pdb
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\bin\Debug\MaterialSkin.dll
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.AssemblyReference.cache
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.SuggestedBindingRedirects.cache
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\obj\Debug\smarthouse.Form1.resources
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\obj\Debug\smarthouse.Form2.resources
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\obj\Debug\smarthouse.Properties.Resources.resources
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.GenerateResource.cache
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.CoreCompileInputs.cache
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.CopyComplete
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\obj\Debug\smarthouse.exe
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\obj\Debug\smarthouse.pdb
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\obj\Debug\smarthouse.Form3.resources
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\bin\Debug\smarthouse.exe.config
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\bin\Debug\smarthouse.exe
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\bin\Debug\smarthouse.pdb
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\bin\Debug\MaterialSkin.dll
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\bin\Debug\Microsoft.Speech.dll
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.AssemblyReference.cache
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\obj\Debug\smarthouse.Form1.resources
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\obj\Debug\smarthouse.Form2.resources
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\obj\Debug\smarthouse.Form3.resources
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\obj\Debug\smarthouse.Properties.Resources.resources
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.GenerateResource.cache
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.CoreCompileInputs.cache
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.CopyComplete
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\obj\Debug\smarthouse.exe
+C:\Users\toxab\OneDrive\Desktop\smarthouse\smarthouse\obj\Debug\smarthouse.pdb
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\bin\Debug\smarthouse.exe.config
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\bin\Debug\smarthouse.exe
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\bin\Debug\smarthouse.pdb
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\bin\Debug\AForge.dll
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\bin\Debug\AForge.Video.dll
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\bin\Debug\MaterialSkin.dll
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\bin\Debug\Microsoft.Speech.dll
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.AssemblyReference.cache
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.SuggestedBindingRedirects.cache
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\obj\Debug\smarthouse.Form1.resources
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\obj\Debug\smarthouse.Form2.resources
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\obj\Debug\smarthouse.Form3.resources
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\obj\Debug\smarthouse.Properties.Resources.resources
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.GenerateResource.cache
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.CoreCompileInputs.cache
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\obj\Debug\smarthouse.csproj.CopyComplete
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\obj\Debug\smarthouse.exe
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\obj\Debug\smarthouse.pdb
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+D:\Lessons\РПО практика\Project\smarthouse\smarthouse\bin\Debug\AudioSwitcher.AudioApi.dll
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\bin\Debug\AudioSwitcher.AudioApi.CoreAudio.dll
+C:\Users\igoro\OneDrive\Рабочий стол\smarthouse\smarthouse\bin\Debug\AudioSwitcher.AudioApi.dll
